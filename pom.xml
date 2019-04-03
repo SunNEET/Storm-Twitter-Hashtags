@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>storm.starter</groupId>
-  <artifactId>udacity-storm-lesson3_stage7</artifactId>
+  <artifactId>storm-twitter-hashtags</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>udacity-storm-lesson3_stage7</name>
-  <url>https://github.com/udacity/ud381</url>
+  <name>Storm-Twitter-Hashtags</name>
+  <url>https://github.com/SunNEET/Storm-Twitter-Hashtags</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
