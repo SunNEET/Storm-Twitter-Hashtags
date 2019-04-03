@@ -1,10 +1,14 @@
 # Storm-Twitter-Hashtags
 It's a course project from [Udacity](https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381). A stream processing pipeline which performs the real time analysis of top hashtags on Twitter, using [Apache Storm](http://storm.apache.org/).
 
+## Demo
+![](https://github.com/SunNEET/Storm-Twitter-Hashtags/blob/master/demo.png)
+
 ## Requirements
   * [Vagrant](https://www.vagrantup.com/) - virtual environment manager.
   * [Oracle VM VirtualBox](https://www.virtualbox.org/) - general purpose virtualizer .
   * SSH client, such as [PuTTY](http://www.putty.org/)
+  * Java 8 or newer version - Otherwise, unsupported major.minor issue will happen.
 
 ## Getting Started
   1. Spin up the VM: `vagrant up`
